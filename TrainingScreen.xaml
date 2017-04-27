@@ -1,0 +1,22 @@
+﻿<Window x:Class="Action_Trainer.TrainingScreen"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Action_Trainer"
+        mc:Ignorable="d"
+        Title="TrainingScreen" Height="955" Width="812">
+    <Grid>
+        <Label x:Name="label" Content="Channel 1:" HorizontalAlignment="Left" Margin="19,23,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label1" Content="Channel 4:" HorizontalAlignment="Left" Margin="19,679,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label2" Content="Channel 2:" HorizontalAlignment="Left" Margin="19,240,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label3" Content="Channel 3:" HorizontalAlignment="Left" Margin="19,468,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="button" Content="Train" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="615,26,0,0"/>
+        <Button x:Name="button_Copy" Content="Disconnect" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="695,26,0,0"/>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="180" Margin="19,55,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="751"/>
+        <TextBox x:Name="textBox_Copy" HorizontalAlignment="Left" Height="180" Margin="19,271,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="751"/>
+        <TextBox x:Name="textBox_Copy1" HorizontalAlignment="Left" Height="180" Margin="19,494,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="751"/>
+        <TextBox x:Name="textBox_Copy2" HorizontalAlignment="Left" Height="180" Margin="19,705,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="751"/>
+
+    </Grid>
+</Window>

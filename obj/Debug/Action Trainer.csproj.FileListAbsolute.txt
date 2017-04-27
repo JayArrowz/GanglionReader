@@ -1,0 +1,14 @@
+c:\users\admin\documents\visual studio 2015\Projects\Action Trainer\Action Trainer\bin\Debug\Action Trainer.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\Action Trainer\Action Trainer\bin\Debug\Action Trainer.exe
+c:\users\admin\documents\visual studio 2015\Projects\Action Trainer\Action Trainer\bin\Debug\Action Trainer.pdb
+c:\users\admin\documents\visual studio 2015\Projects\Action Trainer\Action Trainer\obj\Debug\Action Trainer.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\Action Trainer\Action Trainer\obj\Debug\MainWindow.g.cs
+c:\users\admin\documents\visual studio 2015\Projects\Action Trainer\Action Trainer\obj\Debug\App.g.cs
+c:\users\admin\documents\visual studio 2015\Projects\Action Trainer\Action Trainer\obj\Debug\Action Trainer_MarkupCompile.cache
+c:\users\admin\documents\visual studio 2015\Projects\Action Trainer\Action Trainer\obj\Debug\Action Trainer_MarkupCompile.lref
+c:\users\admin\documents\visual studio 2015\Projects\Action Trainer\Action Trainer\obj\Debug\MainWindow.baml
+c:\users\admin\documents\visual studio 2015\Projects\Action Trainer\Action Trainer\obj\Debug\Action Trainer.g.resources
+c:\users\admin\documents\visual studio 2015\Projects\Action Trainer\Action Trainer\obj\Debug\Action_Trainer.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\Action Trainer\Action Trainer\obj\Debug\Action Trainer.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\Action Trainer\Action Trainer\obj\Debug\Action Trainer.exe
+c:\users\admin\documents\visual studio 2015\Projects\Action Trainer\Action Trainer\obj\Debug\Action Trainer.pdb

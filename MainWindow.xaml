@@ -1,0 +1,18 @@
+﻿<Window x:Class="GanglionReader.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GanglionReader"
+        mc:Ignorable="d"
+        Title="Ganglion Reader - Connection Screen" Height="413" Width="528" ResizeMode="NoResize">
+    <Grid Margin="10,10,4,9">
+        <Label x:Name="DeviceConnectLabel" Content="Please choose a device to connect to:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+        <ListBox x:Name="DeviceListBox" ItemsSource="{Binding Path=DeviceList}" HorizontalAlignment="Left" Height="89" VerticalAlignment="Top" Width="488" Margin="10,41,0,0"/>
+        <Button x:Name="RefreshBtn" Content="Refresh" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="423,136,0,0" Click="RefreshBtn_Click"/>
+        <Button x:Name="ConnectBtn" Content="Connect" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="343,136,0,0" Click="ConnectBtn_Click"/>
+        <Label x:Name="LogMsgLabel" Content="Log Messages:" HorizontalAlignment="Left" Margin="10,133,0,0" VerticalAlignment="Top"/>
+        <ListBox x:Name="LogMessageListBox"  HorizontalAlignment="Left" Height="191" Margin="10,164,0,0" VerticalAlignment="Top" Width="488"/>
+
+    </Grid>
+</Window>
